@@ -6,7 +6,7 @@ Team Members :
      Title	                 Name
    Team Leader	          S.SUNDAR
    Team Member 1	        I.SUJISH KUMAR
-   Team Member 2	        J.SANTHANA PRABHU
+   Team Member 2	        J.SANTHANAPRABHU
    Team Member 3	        G.SABARISH BABU
 Ideation Phase
   •	Brainstorm & Idea Prioritization
